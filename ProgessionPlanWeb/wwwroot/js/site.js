@@ -149,7 +149,7 @@ async function addProgression() {
     }
 }
 
-async function clearITems() {
+async function clearItems() {
     const res = await fetch(baseUrl + `/api/TodoList/clearitems`, { method: 'POST' });
 
     if (res.ok) {

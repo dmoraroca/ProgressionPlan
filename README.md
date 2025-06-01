@@ -1,3 +1,5 @@
+Se inclue un manual del usuario en formato PDF
+
 Los tres proyectos ConsolaApp, ProgessionPlanWeb y ProgressPlanApi se inician con Establecer proyecto de inicio.
 Los test se han hecho con XUnit
 Para ejecutar la web es necesario tener arrancado con otro VS2022 ProgressPlanApi

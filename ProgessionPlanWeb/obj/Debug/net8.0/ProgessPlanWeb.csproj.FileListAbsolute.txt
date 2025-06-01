@@ -27,3 +27,4 @@ C:\_DATA\repos\david\ProgressPlan\ProgessionPlanWeb\obj\Debug\net8.0\refint\Prog
 C:\_DATA\repos\david\ProgressPlan\ProgessionPlanWeb\obj\Debug\net8.0\ProgessPlanWeb.pdb
 C:\_DATA\repos\david\ProgressPlan\ProgessionPlanWeb\obj\Debug\net8.0\ProgessPlanWeb.genruntimeconfig.cache
 C:\_DATA\repos\david\ProgressPlan\ProgessionPlanWeb\obj\Debug\net8.0\ref\ProgessPlanWeb.dll
+C:\_DATA\repos\david\ProgressPlan\ProgessionPlanWeb\obj\Debug\net8.0\ProgessPlanWeb.sourcelink.json

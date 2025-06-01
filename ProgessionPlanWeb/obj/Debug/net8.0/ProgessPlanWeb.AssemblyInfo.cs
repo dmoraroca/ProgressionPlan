@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgessPlanWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4250ad5e4df41d8fe5fe133abcd56f9da47e2692")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgessPlanWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgessPlanWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
