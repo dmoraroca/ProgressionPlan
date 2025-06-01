@@ -1,0 +1,51 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Gestión de TodoItems</h1>
+
+<div class="form-container">
+    <h2>Crear / Editar Todo</h2>
+    <input type="hidden" id="edit-id" />
+    <label for="title">Título:</label>
+    <input type="text" id="title">
+    <label for="description">Descripción:</label>
+    <input type="text" id="description">
+    <label for="category">Categoría:</label>
+    <input type="text" id="category">
+    <button onclick="saveTodo()">Guardar</button>
+    <button onclick="clearSelection()">Borrar Seleccion</button>
+</div>
+
+<button onclick="clearItems()">Borrar Tabla</button>
+
+<h2>Lista de Items</h2>
+<table id="todo-table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Categoría</th>
+            <th>Completado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>
+
+<div class="progress-section">
+    <h2>Progressions del Item Seleccionado</h2>
+    <div id="progression-container"></div>
+
+    <h3>Añadir Progreso</h3>
+    <label for="progress-date">Fecha:</label>
+    <input type="date" id="progress-date">
+    <label for="progress-percent">Porcentaje:</label>
+    <input type="number" id="progress-percent" min="1" max="100">
+    <button onclick="addProgression()">Añadir</button>
+</div>

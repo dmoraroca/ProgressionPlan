@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsolaApp/1.0.0": {
+        "dependencies": {
+          "ProgressPlanDDD": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaApp.dll": {}
+        }
+      },
+      "ProgressPlanDDD/1.0.0": {
+        "runtime": {
+          "ProgressPlanDDD.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProgressPlanDDD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

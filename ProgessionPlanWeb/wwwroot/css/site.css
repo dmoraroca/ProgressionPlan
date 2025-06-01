@@ -1,0 +1,107 @@
+html {
+  font-size: 14px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    padding: 40px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+th, td {
+    padding: 12px 16px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+}
+
+th {
+    background: #1976d2;
+    color: white;
+}
+
+tr:hover {
+    background: #f0f0f0;
+    cursor: pointer;
+}
+
+.form-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input, button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.actionButton {
+    width: 50%;
+    float: left;
+}
+
+button {
+    background-color: #1976d2;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #0d47a1;
+    }
+
+.progress-section {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.bar {
+    background: #eee;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 5px 0 15px;
+}
+
+    .bar > div {
+        background: #4caf50;
+        height: 20px;
+        width: 0%;
+        color: white;
+        padding-right: 5px;
+        text-align: right;
+        transition: width 0.5s;
+    }
+
+.btn-danger {
+    background-color: #e53935;
+}
+
+    .btn-danger:hover {
+        background-color: #b71c1c;
+    }

@@ -1,0 +1,12 @@
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ProgressPlanDDD.csproj.AssemblyReference.cache
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ProgressPlanDDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ProgressPlanDDD.AssemblyInfoInputs.cache
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ProgressPlanDDD.AssemblyInfo.cs
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ProgressPlanDDD.csproj.CoreCompileInputs.cache
+C:\_DATA\repos\david\ProgressPlanDDD\bin\Debug\net6.0\ProgressPlanDDD.deps.json
+C:\_DATA\repos\david\ProgressPlanDDD\bin\Debug\net6.0\ProgressPlanDDD.dll
+C:\_DATA\repos\david\ProgressPlanDDD\bin\Debug\net6.0\ProgressPlanDDD.pdb
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ProgressPlanDDD.dll
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ref\ProgressPlanDDD.dll
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\ProgressPlanDDD.pdb
+C:\_DATA\repos\david\ProgressPlanDDD\obj\Debug\net6.0\refint\ProgressPlanDDD.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProgessionPlanWeb/1.0.0": {
+        "runtime": {
+          "ProgessionPlanWeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgessionPlanWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
